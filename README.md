@@ -18,3 +18,12 @@ Change task status
 View a dashboard
 
 The application itself is just a vehicle—the real goal is to practice GitHub workflows.
+
+## Folder Structure
+
+- `docs/` - Project documentation, notes, and supporting guides.
+- `src/` - Source code for the application.
+- `tests/` - Automated tests for the application.
+- `.github/workflows/` - GitHub Actions workflow files for CI and automation.
+
+The empty folders include a `.gitkeep` file so git tracks the directory structure even before code is added.
