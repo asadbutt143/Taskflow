@@ -1,4 +1,4 @@
-# Release Notes - Version 1.0
+# Release Notes - Version 1.0.0
 
 ## Features
 
